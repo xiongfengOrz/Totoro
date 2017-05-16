@@ -1,6 +1,5 @@
 # Totoro
-
-https://travis-ci.org/xiongfengOrz/Totoro.svg?branch=master
+[![Build Status](https://travis-ci.org/xiongfengOrz/Totoro.svg?branch=master)](https://travis-ci.org/xiongfengOrz/Totoro)
 
 这是一个简易的HTTP Server，采用生产者消费者模式实现。
 
