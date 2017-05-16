@@ -1,0 +1,4 @@
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR})
+
+ADD_EXECUTABLE(BlockingQueue BlockingQueue_test.cpp)
+TARGET_LINK_LIBRARIES(BlockingQueue pthread)
