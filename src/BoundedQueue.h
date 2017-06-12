@@ -59,7 +59,7 @@ class BoundedQueue {
   const size_t capacity_;
   vector<T> circular_buffer_;
 
-}; // class BoundedQueue
+};  
 } 
 
 #endif
